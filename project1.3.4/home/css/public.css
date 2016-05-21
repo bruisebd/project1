@@ -1,0 +1,153 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{margin:0;padding:0}
+
+html,body{font-size:18px;font-family:楷体,幼圆,宋体;}
+
+.clear{ width:100%;clear:both;height:8px;}
+
+a{
+	text-decoration:none;
+}
+ul li{
+	list-style-type:none;
+	float:left;
+	margin-top:8px;
+	margin-left:7px;
+}
+/*header 的样式*/
+#header,#body,#footer {
+	width:960px;
+	margin:10px auto;
+}
+body{
+	background-image:url(../images/background.png);
+	background-repeat:repeat-x;
+}
+#header .topright  {
+	float:right;
+	margin-bottom:1px;
+	margin-top:20px;
+	font-size: 0.83em;
+}
+
+#usershow{
+	float:right;
+	margin-bottom:1px;
+	margin-top:20px;
+}
+#header .topright  td{
+	border:0px ;
+}
+#header .topleft{
+	float:left;
+		margin-bottom:2px;
+	margin-top:20px;
+}
+#headerclear{
+	width:100%;clear:both;height:1px;
+
+}
+#header .headercenter {
+	background:#2773C1;
+	height:33px;
+	color:white;
+}
+#header .headerfooter {
+	background:#E8EFF5;
+	height:40px;
+}
+/*搜索文本框*/
+#header .headerfooter .hfooterleft .ss{
+	margin-top:5px;
+	margin-left:5px;
+	height:24px;
+	width:330px;
+	float:left;
+
+
+}
+/* 搜索按钮*/
+#header .headerfooter .hfooterleft .soubut{
+	height:24px;
+	margin-top:7px;
+	margin-left:5px;
+	float:left;
+}
+
+#header .headerfooter .hfooterright{
+	float:left;
+	
+	margin-top:10px;
+	margin-right:10px;
+	margin-left:10px;
+	
+	
+}
+#header .headerfooter .hfooterright .resou{
+	font-size:0.9em;
+	
+}
+#header .headerfooter .hfooterright .xuanxiang{
+	color: #369;
+	font-size:0.8em;
+}
+#header .headerfooter .hfooterleft li{
+	padding-left:10px;
+}
+#header .headercenter .cenright{
+	text-align:right;
+	margin-right:3px;
+}
+#header .headercenter .cenright input{
+	margin-top:4px;
+	width:100px;
+}
+#path{
+	height:30px;
+	margin-bottom:5px;
+}
+#path .index{
+	width:16px;
+	height:30px;
+	float: left;
+	background:url("../images/search.png") no-repeat -8px -119px;
+}
+ #path em{
+	width:20px;
+	height: 30px;
+	float: left;
+	background:url("../images/pt_item.png") no-repeat 3px 10px;
+}
+#path .path_menu{
+	font-size:1.0em;
+	width:100px;
+	line-height: 29px;
+	float:left;
+	color:#999;
+}
+
+
+/*body 的样式*/
+#body{
+	height:500px;
+	border:1px solid #cccccc
+}
+/*footer 的样式*/
+#footer{
+	padding-top:10px;
+	border-top:1px solid #CCCCCC;
+	font-family: Tahoma,Helvetica,sans-serif;
+    font-size: 0.83em;
+	cursor: auto;
+}
+.footerleft{
+	float:left;
+	margin-left:10px;
+	font-family: Tahoma,Helvetica,sans-serif;
+	font-size: 0.83em;
+}
+.footerright{
+	float:riht;
+	text-align:right;
+	font-family: Tahoma,Helvetica,sans-serif;
+	font-size: 0.83em;
+}

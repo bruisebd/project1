@@ -1,0 +1,38 @@
+#body{
+	font-family: Tahoma,Helvetica,sans-serif;
+	font-size: 0.83em;
+}
+#body .bodytitle{
+	background:#F2F2F2;
+	height:33px;
+}
+
+#body .bodytitle .btitleleft{
+	float:left;
+	padding-top:5px;
+	padding-left:10px;
+	
+
+}
+#body .bodytitle .btitleright{
+	float:right;
+	padding-top:5px;
+	padding-right:10px;
+}
+#body .bmain{
+	text-align:center;
+	width:700px;
+	margin:10px auto;
+	margin-bottom:10px;
+}
+.wb{
+	width:230px;
+}
+#body  table{
+	width:400px;
+	margin:10px auto;
+}
+.bmain table td{
+	height:33px;
+	border-bottom:1px dashed #f2f2f2;
+}

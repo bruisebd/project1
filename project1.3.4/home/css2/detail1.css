@@ -1,0 +1,17 @@
+/*detail 的css 样式*/
+ td{
+	border-bottom:1px dashed #cdcdcd;
+
+}
+table{
+	width:100%;
+}
+.tabletd{
+	background:#E5EDF2;
+}
+#content .maincontent .context{
+				/*border-bottom:1px dashed #cdcdcd;*/
+				margin:0px auto;
+				margin-bottom:10px;
+				
+			}

@@ -1,0 +1,27 @@
+﻿/*index css 的样式*/
+
+#content .maincontent .indexcontitle{
+				
+	line-height: 31px;
+	padding-left:4px;
+	height:33px;
+	color:#369;
+	background:#ECF2F5;
+}
+
+#content .maincontent {
+	border:0px solid #CDCDCD;
+}
+#content .catelist {
+margin-top:13px;
+}			
+#content .maincontent .conindex{
+		border:1px solid #CDCDCD;
+		margin-bottom:4px;
+}	
+#content .maincontent .conindex table{
+	border-bottom:1px dashed #CDCDCD;
+	margin-bottom:10px;
+
+	
+}

@@ -1,0 +1,7 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{margin:0;padding:0}
+
+html,body{font-size:18px;font-family:楷体,幼圆,宋体;}
+
+.clear{ 
+	width:100%;clear:both;height:10px;
+}
